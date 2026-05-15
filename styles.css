@@ -166,7 +166,7 @@ h3 {
   background:
     linear-gradient(135deg, rgba(255, 255, 255, 0.3), rgba(17, 17, 17, 0.12)),
     linear-gradient(180deg, rgba(255, 255, 255, 0.18), rgba(17, 17, 17, 0.1)),
-    url("/Users/omarm.akhtar/Documents/Website Clients/A Busy Bee Roofing Website/Roof inspector Pic.jpg")
+    url("Roof inspector Pic.jpg")
       61% center/cover no-repeat;
 }
 
@@ -517,7 +517,7 @@ h1 {
   position: absolute;
   inset: 1rem 0;
   background:
-    url("/Users/omarm.akhtar/Documents/Website Clients/A Busy Bee Roofing Website/A Busy Bee Logo.png")
+    url("A Busy Bee Logo.png")
       center 60%/contain no-repeat;
   opacity: 0.1;
   pointer-events: none;
@@ -537,7 +537,7 @@ h1 {
   padding-bottom: 4rem;
   background:
     linear-gradient(180deg, rgba(255, 255, 255, 0.76), rgba(255, 255, 255, 0.84)),
-    url("/Users/omarm.akhtar/Documents/Website Clients/A Busy Bee Roofing Website/SHingles 2.webp")
+    url("SHingles 2.webp")
       center/cover no-repeat;
   text-align: center;
 }
@@ -636,7 +636,7 @@ h1 {
   background:
     linear-gradient(90deg, rgba(17, 17, 17, 0.96), rgba(34, 34, 34, 0.92)),
     linear-gradient(135deg, rgba(17, 17, 17, 0.34), transparent 45%),
-    url("/Users/omarm.akhtar/Documents/Website Clients/A Busy Bee Roofing Website/Roofer image .jpg")
+    url("Roofer image .jpg")
       center/cover no-repeat;
   color: var(--color-white);
 }
@@ -742,7 +742,7 @@ h1 {
   padding-top: 0.8rem;
   background:
     linear-gradient(180deg, rgba(255, 255, 255, 0.48), rgba(17, 17, 17, 0.12)),
-    url("/Users/omarm.akhtar/Documents/Website Clients/A Busy Bee Roofing Website/shingles picture .webp")
+    url("shingles picture .webp")
       center/cover no-repeat;
   position: relative;
 }
