@@ -998,6 +998,15 @@ h1 {
   max-width: 28rem;
 }
 
+.payment-copy-strong {
+  margin-bottom: 0.9rem;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.15rem;
+  font-weight: 800;
+  line-height: 1.35;
+  color: var(--color-black);
+}
+
 .payments-image {
   display: block;
   width: 50%;
@@ -1008,6 +1017,15 @@ h1 {
   padding: 0;
   mix-blend-mode: multiply;
   opacity: 0.98;
+}
+
+.payments-bee-image {
+  width: min(74%, 280px);
+  margin-top: 0.2rem;
+  background: transparent;
+  mix-blend-mode: normal;
+  opacity: 0.95;
+  filter: drop-shadow(0 14px 24px rgba(17, 17, 17, 0.14));
 }
 
 .social-links {
